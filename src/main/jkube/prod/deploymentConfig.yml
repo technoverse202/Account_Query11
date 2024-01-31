@@ -1,0 +1,6 @@
+kind: DeploymentConfig
+apiVersion: apps.openshift.io/v1
+metadata:
+  name: Account Query11   
+spec:
+ 
